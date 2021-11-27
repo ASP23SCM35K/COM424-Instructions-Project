@@ -24,6 +24,12 @@ h3{
 	font-size: 20px;
 }
 
+h4{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font:unset;
+	font-size: 20px;
+}
+
 .safetyHeading{
 	text-align: center;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
